@@ -1,1 +1,1 @@
-README file
+this file is mandatory in projects
